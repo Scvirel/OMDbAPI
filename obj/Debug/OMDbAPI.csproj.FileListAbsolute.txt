@@ -1,0 +1,17 @@
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\OMDbAPI.csprojAssemblyReference.cache
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\MainWindow.g.cs
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\App.g.cs
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\OMDbAPI_MarkupCompile.cache
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\OMDbAPI_MarkupCompile.lref
+C:\Users\Владислав\source\repos\OMDbAPI\bin\Debug\OMDbAPI.exe.config
+C:\Users\Владислав\source\repos\OMDbAPI\bin\Debug\OMDbAPI.exe
+C:\Users\Владислав\source\repos\OMDbAPI\bin\Debug\OMDbAPI.pdb
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\MainWindow.baml
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\OMDbAPI.g.resources
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\OMDbAPI.Properties.Resources.resources
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\OMDbAPI.csproj.GenerateResource.cache
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\OMDbAPI.exe
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\OMDbAPI.pdb
+C:\Users\Владислав\source\repos\OMDbAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Владислав\source\repos\OMDbAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Владислав\source\repos\OMDbAPI\obj\Debug\OMDbAPI.csproj.CopyComplete

@@ -1,0 +1,23 @@
+﻿<Window x:Class="OMDbAPI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OMDbAPI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="29" Margin="79,20,0,0" Padding="10,5,10,5" TextWrapping="Wrap" VerticalAlignment="Top" Width="184" TextChanged="TextBox_TextChanged"/>
+        <Label Tag="Label" Content="Film name :" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top"/>
+        <Label Tag="Label" Content="Type :" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="79,89,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged">
+            <TextBlock>Movie</TextBlock>
+            <TextBlock>Series</TextBlock>
+            <TextBlock>Episode</TextBlock>
+        </ComboBox>
+        <Button Content="Search" HorizontalAlignment="Left" Margin="10,147,0,0" VerticalAlignment="Top" Width="104" Height="36" Click="Button_Click"/>
+        <ScrollViewer  HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="470" Margin="322,0,0,0">
+            <StackPanel x:Name="SearchResult"/>
+        </ScrollViewer>
+    </Grid>
+</Window>
